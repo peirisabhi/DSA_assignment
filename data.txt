@@ -1,0 +1,5 @@
+978-6596009205, Head First Java, 2nd Edition, Kathy Sierra; Bert Bates, $14.59 
+978-0071809252, Java: A Beginner's Guide, 6th Edition, Herbert Schildt, $33.74 
+978-1617291340, C# in Depth, 3rd Edition, Jon Skeet, $18.72 
+978-1449362188, Head First Android Development: A Brain-Friendly Guide, 1st Edition, Dawn Griffiths;David Griffiths, $12.00
+978-0672317842, PHP and MySQL Web Development, ,Luke Welling; Laura Thomson, $4.99
